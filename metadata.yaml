@@ -1,11 +1,16 @@
 _repo: An-Historical-Sketch-of-the-Conceptions-of-Memory-among-the-Ancients_59995
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59995-h/images/cover.jpg
 creator:
   author:
     agent_name: Burnham, William H.
     gutenberg_agent_id: '50723'
     url: http://www.gutenberg.org/2009/agents/50723
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59995#An-Historical-Sketch-of-the-Conceptions-of-Memory-among-the-Ancients
 gutenberg_issued: '2019-07-28'
 gutenberg_type: Text
 identifiers:
